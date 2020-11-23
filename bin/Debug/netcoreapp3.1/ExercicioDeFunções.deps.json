@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ExercicioDeFunções/1.0.0": {
+        "runtime": {
+          "ExercicioDeFunções.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExercicioDeFunções/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\winicius\Documents\ExercicioDeFunções\bin\Debug\netcoreapp3.1\ExercicioDeFunções.exe
+C:\Users\winicius\Documents\ExercicioDeFunções\bin\Debug\netcoreapp3.1\ExercicioDeFunções.deps.json
+C:\Users\winicius\Documents\ExercicioDeFunções\bin\Debug\netcoreapp3.1\ExercicioDeFunções.runtimeconfig.json
+C:\Users\winicius\Documents\ExercicioDeFunções\bin\Debug\netcoreapp3.1\ExercicioDeFunções.runtimeconfig.dev.json
+C:\Users\winicius\Documents\ExercicioDeFunções\bin\Debug\netcoreapp3.1\ExercicioDeFunções.dll
+C:\Users\winicius\Documents\ExercicioDeFunções\bin\Debug\netcoreapp3.1\ExercicioDeFunções.pdb
+C:\Users\winicius\Documents\ExercicioDeFunções\obj\Debug\netcoreapp3.1\ExercicioDeFunções.csprojAssemblyReference.cache
+C:\Users\winicius\Documents\ExercicioDeFunções\obj\Debug\netcoreapp3.1\ExercicioDeFunções.AssemblyInfoInputs.cache
+C:\Users\winicius\Documents\ExercicioDeFunções\obj\Debug\netcoreapp3.1\ExercicioDeFunções.AssemblyInfo.cs
+C:\Users\winicius\Documents\ExercicioDeFunções\obj\Debug\netcoreapp3.1\ExercicioDeFunções.csproj.CoreCompileInputs.cache
+C:\Users\winicius\Documents\ExercicioDeFunções\obj\Debug\netcoreapp3.1\ExercicioDeFunções.dll
+C:\Users\winicius\Documents\ExercicioDeFunções\obj\Debug\netcoreapp3.1\ExercicioDeFunções.pdb
+C:\Users\winicius\Documents\ExercicioDeFunções\obj\Debug\netcoreapp3.1\ExercicioDeFunções.genruntimeconfig.cache
